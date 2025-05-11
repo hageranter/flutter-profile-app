@@ -1,8 +1,26 @@
-# myapp
+myapp
+Name: Hager Tarek Saad Anter ID: 20230331943
 
-A new Flutter project.
+🌳 Flutter Profile & Gallery App
+A responsive Flutter application that allows users to:
 
-## Getting Started
+Capture or select a profile picture using camera or gallery
+Add a name and bio
+Select multiple images and view them in a beautiful gallery grid
+Experience a smooth and intuitive UI on both web and mobile
+🔧 Features
+📸 Image picker (camera + gallery)
+🧑‍💼 Editable profile with image, name & bio
+🌄 Multi-image selection and display
+💡 Provider for state management
+⚙️ Web-compatible image handling with Uint8List
+Video
+https://github.com/hageranter/flutter-profile-app/releases/tag/Video
+
+🚀 Getting Started
+flutter pub get
+flutter run
+
 
 This project is a starting point for a Flutter application.
 
