@@ -15,8 +15,8 @@ Experience a smooth and intuitive UI on both web and mobile
 💡 Provider for state management
 ⚙️ Web-compatible image handling with Uint8List
 Video
-https://github.com/hageranter/flutter-profile-app/releases/tag/Video
 
+https://github.com/hageranter/flutter-profile-app/releases/tag/Video2
 🚀 Getting Started
 flutter pub get
 flutter run
